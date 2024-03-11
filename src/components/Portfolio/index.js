@@ -1,8 +1,6 @@
 import React from "react";
-import summerPunchImage from "../../assets/small/Summer_Punch.png";
-import weatherDashImage from "../../assets/small/Weather_Dash.png";
 import noteTakerImage from "../../assets/small/NoteTaker.png";
-import twilightImage from "../../assets/small/Twilight_Ristorante.png";
+
 
 function Portfolio() {
   return (
