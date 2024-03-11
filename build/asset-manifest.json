@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.875809a0.css",
+    "main.js": "/React_Portfolio/static/js/main.ae5006f6.js",
+    "static/js/787.cf482a7c.chunk.js": "/React_Portfolio/static/js/787.cf482a7c.chunk.js",
+    "static/media/Twilight_Ristorante.png": "/React_Portfolio/static/media/Twilight_Ristorante.f5b976e32680da017119.png",
+    "static/media/Summer_Punch.png": "/React_Portfolio/static/media/Summer_Punch.c7da771fb6c126146be3.png",
+    "static/media/Weather_Dash.png": "/React_Portfolio/static/media/Weather_Dash.fb8dfe9ddd2d1911fd44.png",
+    "static/media/5330558.jpg": "/React_Portfolio/static/media/5330558.100910fd80e5b3c1e2e8.jpg",
+    "static/media/NoteTaker.png": "/React_Portfolio/static/media/NoteTaker.a02f46f0add6517fa071.png",
+    "index.html": "/React_Portfolio/index.html",
+    "main.875809a0.css.map": "/React_Portfolio/static/css/main.875809a0.css.map",
+    "main.ae5006f6.js.map": "/React_Portfolio/static/js/main.ae5006f6.js.map",
+    "787.cf482a7c.chunk.js.map": "/React_Portfolio/static/js/787.cf482a7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.875809a0.css",
+    "static/js/main.ae5006f6.js"
+  ]
+}
