@@ -67,9 +67,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Screenshots 
-
-
-
+![Alt text](<screenshots/Screen Shot 2024-03-10 at 10.16.35 PM.png>)
+![Alt text](<screenshots/Screen Shot 2024-03-10 at 10.17.01 PM.png>)
+![Alt text](<screenshots/Screen Shot 2024-03-10 at 10.17.31 PM.png>)
 
 
 ## Link 
