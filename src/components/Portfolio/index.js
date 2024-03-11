@@ -13,7 +13,7 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="">
+              <a href="https://github.com/ajgeneroso/React_Portfolio">
                 {" "}
                 <img
                   src={noteTakerImage}
@@ -35,7 +35,7 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="">
+              <a href="https://github.com/ajgeneroso/React_Portfolio">
                 {" "}
                 <img
                   src={noteTakerImage}
@@ -57,7 +57,7 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="/">
+              <a href="https://github.com/ajgeneroso/React_Portfolio">
                 {" "}
                 <img
                   src={noteTakerImage}
@@ -79,7 +79,7 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="">
+              <a href="https://github.com/ajgeneroso/React_Portfolio">
                 {" "}
                 <img
                   src={noteTakerImage}
@@ -102,7 +102,7 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="">
+              <a href="/">
                 {" "}
                 <img
                   src={noteTakerImage}
@@ -124,7 +124,7 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://lemming97.github.io/Project_1/">
+              <a href="https://github.com/ajgeneroso/React_Portfolio">
                 {" "}
                 <img
                   src={noteTakerImage}
@@ -146,7 +146,7 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://floating-island-17357.herokuapp.com/">
+              <a href="https://github.com/ajgeneroso/React_Portfolio">
                 {" "}
                 <img
                   src={noteTakerImage}
@@ -157,12 +157,9 @@ function Portfolio() {
               </a>
             </div>
             <div className="job-text">
-              <h4>HomeBrew</h4>
+              <h4>Test</h4>
               <p>
-                A plant blog that allows the user to view seasonal gallery of
-                plants after the user logs into their account. The user can also
-                add comments to the blog once they are logged in as well as
-                deleting their comments.{" "}
+                {" "}
               </p>
             </div>
           </div>
